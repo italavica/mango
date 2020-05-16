@@ -8,7 +8,7 @@ $mensaje_positivo_grave = "Notificación de resultado COVID- 19, Servicios de Sa
 
 "."Recomendaciones:
 
-Monitorea tus síntomas: dificultad para respirar, dolor Torácico, tos, mal estado general, alteración de la conciencia, en caso de no estar hospitalizado, será necesario acudir al Hospital de Derechohabiencia más cercano para tú valoración inmediata (IMSS, ISSSTE, SEDENA, SEMAR), ó bien si usted no tiene derechohabiencia podrá acudir a los Hospitales de los Servicios de Salud de Sinaloa.
+Monitorea tus síntomas: dificultad para respirar, dolor torácico, tos, mal estado general, alteración de la conciencia. En caso de no estar hospitalizado, será necesario acudir al hospital de derechohabiencia más cercano para su valoración inmediata (IMSS, ISSSTE, SEDENA, SEMAR), ó bien si usted no tiene derechohabiencia podrá acudir a los Hospitales de los Servicios de Salud de Sinaloa.
 
 
 
@@ -31,7 +31,7 @@ $mensaje_positivo_nograve = "Notificación de resultado COVID- 19, Servicios de 
 -Lava tus manos 
  frecuentemente
 
--Estornudo de etiqueta
+-Cubrir con antebrazo el estornudo
 
 -Usa cubre bocas
 
